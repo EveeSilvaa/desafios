@@ -1,4 +1,4 @@
-# Exercícios para Processo Seletivo target
+# Exercícios
 
 Este repositório contém soluções para diferentes problemas de algoritmos utilizando Python e JavaScript.
 
